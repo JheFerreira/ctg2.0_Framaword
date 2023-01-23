@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TesteCliente" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-01-22T17:33:08" hostname="DESKTOP-KQF5VIK" time="1.401">
+  <properties/>
+  <testcase name="Quando eu pegar todos os clientes sem cadastrar, entÃ£o a lista deve estar vazia" classname="TesteCliente" time="1.291"/>
+  <testcase name="Quando deletar um cliente, entÃ£o ele nÃ£o deve estar disponÃ­vel no resultado" classname="TesteCliente" time="0.048"/>
+  <testcase name="Quando cadastrar um cliente, entÃ£o ele deve estar disponÃ­vel no resultado" classname="TesteCliente" time="0.025"/>
+  <testcase name="Quando alterar um cliente, entÃ£o ele deve trazer o resultado alterado" classname="TesteCliente" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
